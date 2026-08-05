@@ -4,7 +4,7 @@ df = pd.DataFrame({
     "Your Name":
     [
         "Your buddy",
-        "Your gangster",
+        "Your gingster",
         "Your lover",
     ],
     "Your Gender":
